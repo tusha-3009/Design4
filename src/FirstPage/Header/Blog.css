@@ -1,0 +1,11 @@
+.blog {
+  /* border: 2px solid blue; */
+  margin: 0 100px 50px;
+
+  padding: 10px;
+  border: 2px dotted black;
+}
+.content {
+  font-size: 18px;
+  font-weight: 500;
+}

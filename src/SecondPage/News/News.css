@@ -1,0 +1,54 @@
+.news {
+  position: absolute;
+  background-color: white;
+  border: none;
+  border-radius: 20px 0 20px 20px;
+  top: 60%;
+
+  z-index: 1;
+  left: 30%;
+  width: fit-content;
+  margin-right: 100px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  box-shadow: 2px 2px 2px 2px rgb(229, 228, 228);
+ 
+
+ 
+}
+.development {
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  letter-spacing: 0.1px;
+}
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: rgb(131, 130, 130);
+}
+
+.newsHeading {
+  font-size: 30px;
+  font-weight: 900;
+}
+.google {
+  font-family: "Poppins", sans-serif;
+  color: rgb(80, 79, 79);
+}
+.readmore {
+  width: fit-content;
+  border: 1px solid blue;
+  color: blue;
+  background-color: white;
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.readmore:hover{
+  color:white
+}

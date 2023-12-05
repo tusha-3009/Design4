@@ -1,0 +1,21 @@
+.link {
+  display: flex;
+ 
+  gap: 50px;
+  align-items: center;
+  font-size: 15px;
+}
+.blue {
+  color: blue;
+}
+button {
+  border: none;
+  padding: 15px 30px;
+  border-radius: 8px;
+  background: blue;
+  color: white;
+  font-size: 15px;
+}
+button:hover {
+  background: rgb(2, 2, 224);
+}

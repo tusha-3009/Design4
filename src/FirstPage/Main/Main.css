@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+  width: fit-content;
+   gap:100px;
+   background-color: #7C4EE4;
+   padding: 80px 100px;
+}

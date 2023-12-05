@@ -1,0 +1,38 @@
+.leftSide {
+  
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  color: white;
+  height: fit-content;
+  padding: 30px;
+ 
+  /* max-width: 500px; */
+  /* justify-content: space-between; */
+}
+.featuredPost {
+  letter-spacing: 2px;
+ 
+  font-size: 12px;
+  font-weight: 700;
+}
+.heading {
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 70px;
+}
+.subHeading {
+  color: rgb(228, 225, 225);
+  line-height: 20px;
+  font-weight: 400;
+  padding-right: 50px;;
+}
+.readMore {
+  width: fit-content;
+  color: black;
+  font-weight: 700;
+  background: white;
+}
+.readMore:hover {
+  background:rgb(247, 244, 244)
+}
